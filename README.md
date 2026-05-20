@@ -8,7 +8,7 @@ An enthusiastic **Electrical-Electronics Engineering Student** deeply passionate
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Hardware & PCB Design** | ![Altium Designer](https://img.shields.io/badge/Altium_Designer-2C2C2C?style=flat&logo=altium&logoColor=white) ![KiCad](https://img.shields.io/badge/KiCad-2C2C2C?style=flat&logo=kicad&logoColor=white) ![JLCPCB](https://img.shields.io/badge/JLCPCB-2C2C2C?style=flat) |
+| **Hardware & PCB Design** | ![Altium Designer](https://img.shields.io/badge/Altium_Designer-2C2C2C?style=flat&logo=altium&logoColor=white) ![KiCad](https://img.shields.io/badge/KiCad-2C2C2C?style=flat&logo=kicad&logoColor=white)|
 | **Simulation & Modeling** | ![MATLAB](https://img.shields.io/badge/MATLAB-2C2C2C?style=flat&logo=mathworks&logoColor=white) ![Simulink](https://img.shields.io/badge/Simulink-2C2C2C?style=flat&logo=mathworks&logoColor=white) ![PLECS](https://img.shields.io/badge/PLECS-2C2C2C?style=flat) ![LTspice](https://img.shields.io/badge/LTspice-2C2C2C?style=flat) |
 | **Microcontrollers & Firmware**| ![STM32](https://img.shields.io/badge/STM32-2C2C2C?style=flat&logo=stmicroelectronics&logoColor=white) ![C/C++](https://img.shields.io/badge/C%2F%2B%2B-2C2C2C?style=flat&logo=c%2B%2B&logoColor=white) |
 
@@ -26,8 +26,4 @@ An enthusiastic **Electrical-Electronics Engineering Student** deeply passionate
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hacer-akta%C5%9F-84aa49355)
 
----
 
-## 📊 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hacer-akta%C5%9F-84aa49355)
