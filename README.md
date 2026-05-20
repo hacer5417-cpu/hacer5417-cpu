@@ -8,7 +8,7 @@ An enthusiastic **Electrical-Electronics Engineering Student** deeply passionate
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Hardware & PCB Design** | ![Altium Designer](https://img.shields.io/badge/Altium_Designer-A82F2F?style=flat&logo=altium&logoColor=white) ![KiCad](https://img.shields.io/badge/KiCad-314A74?style=flat&logo=kicad&logoColor=white) ![JLCPCB](https://img.shields.io/badge/JLCPCB-0052CC?style=flat) |
+| **Hardware & PCB Design** | ![Altium Designer](https://img.shields.io/badge/Altium_Designer-A82F2F?style=flat&logo=altium&logoColor=white) ![KiCad](https://img.shields.io/badge/KiCad-314A74?style=flat&logo=kicad&logoColor=white)|
 | **Simulation & Modeling** | ![MATLAB](https://img.shields.io/badge/MATLAB-ED6B21?style=flat&logo=mathworks&logoColor=white) ![Simulink](https://img.shields.io/badge/Simulink-ED6B21?style=flat&logo=mathworks&logoColor=white) `PLECS` `LTspice` |
 | **Microcontrollers & Firmware**| ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white) `C/C++` |
 
